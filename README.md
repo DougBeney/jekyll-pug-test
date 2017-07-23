@@ -27,6 +27,4 @@ If all went accordingly, you should see the following on `http://localhost:4000`
 
 ![screenshot](screenshot.png)
 
-If you only see "Guess What? IT WORKED", but not the bottom text, beginning with "oh", that means layouts aren't working properly.
-
 [Please submit any problems here.](https://github.com/DougBeney/jekyll-pug/issues)
