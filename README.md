@@ -21,7 +21,7 @@ bundle install
 jekyll serve
 ```
 
-##Results
+## Results
 
 If all went accordingly, you should see the following on `http://localhost:4000`
 
