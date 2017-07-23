@@ -27,4 +27,6 @@ If all went accordingly, you should see the following on `http://localhost:4000`
 
 ![screenshot](screenshot.png)
 
+---
+
 [Please submit any problems here.](https://github.com/DougBeney/jekyll-pug/issues)
